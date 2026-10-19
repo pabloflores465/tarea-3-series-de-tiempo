@@ -31,7 +31,7 @@ pdflatex -interaction=nonstopmode -halt-on-error main.tex
 
 No necesitas LaTeX para leer el PDF ni para ejecutar el análisis.
 
-Para repetir también las versiones de dependencias indirectas, puedes instalar `requirements-lock.txt` en lugar de `requirements.txt`.
+Para repetir también las versiones de dependencias indirectas, usa Python 3.12 e instala `requirements-lock.txt` en lugar de `requirements.txt`. Con Python 3.11 utiliza `requirements.txt`, para que se resuelvan dependencias indirectas compatibles.
 
 ## Qué contiene
 
