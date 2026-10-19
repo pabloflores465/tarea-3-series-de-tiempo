@@ -1,0 +1,18 @@
+{
+  "pruebas": 7,
+  "fallos": 0,
+  "errores": 0,
+  "correcto": true,
+  "comando": "python codigo/verificar.py",
+  "comprueba": [
+    "ACF y Ljung-Box contra statsmodels",
+    "Conservación de devoluciones y ventas anónimas",
+    "Balance de filas y montos de limpieza",
+    "Rezagos alrededor de feriados",
+    "Fuentes de rezagos anteriores al origen",
+    "Mismas fechas evaluadas en todos los modelos legales",
+    "Métricas sobre todos los días pronosticados",
+    "Convergencia final de los 66 ajustes SARIMA",
+    "Puntajes RFM y denominadores monetarios"
+  ]
+}

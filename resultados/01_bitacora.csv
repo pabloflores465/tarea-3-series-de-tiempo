@@ -1,0 +1,8 @@
+regla,filas,monto_gbp
+1. Duplicados exactos,5268,21740.98
+2. Prefijo no comercial,3,-11062.06
+3. Pedido anulado y crédito manual pareado,2,0
+"4. Cargos, ajustes y vouchers",2936,4720.851
+5. Precio no positivo,2493,0
+6. Salida de inventario sin cancelación,0,0
+7. Cantidad nula,0,0

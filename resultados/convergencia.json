@@ -1,0 +1,976 @@
+[
+  {
+    "origen": "ajuste_inicial",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 50,
+    "convergio": false,
+    "loglike": -182.11870311674267,
+    "parametros": {
+      "intercept": 1.226086490573525,
+      "ar.L1": 0.1660292646278661,
+      "ar.S.L6": 0.8542766685994357,
+      "sigma2": 0.23163938212724494
+    },
+    "avisos": [
+      "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+    ]
+  },
+  {
+    "origen": "ajuste_inicial",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -162.46450413055652,
+    "parametros": {
+      "intercept": 4.270866734389952,
+      "ar.L1": 0.127688787628595,
+      "ar.S.L6": 0.5164815441875936,
+      "sigma2": 0.2188599551888838
+    },
+    "avisos": []
+  },
+  {
+    "origen": "ajuste_inicial",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 50,
+    "convergio": true,
+    "loglike": -157.44929572220866,
+    "parametros": {
+      "ma.L1": -0.9090660790615177,
+      "ma.S.L6": -0.6836479266924191,
+      "sigma2": 0.21393187094918156
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-01",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -82.61951733345107,
+    "parametros": {
+      "intercept": 3.7773238796136708,
+      "ar.L1": 0.17317307838222418,
+      "ar.S.L6": 0.5452708699726461,
+      "sigma2": 0.23598907402455638
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-01",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -74.91654006148846,
+    "parametros": {
+      "ma.L1": -0.8395976172504259,
+      "ma.S.L6": -0.7110912203345148,
+      "sigma2": 0.21643375152019304
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-08",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -84.06175745487035,
+    "parametros": {
+      "intercept": 3.7988128223273714,
+      "ar.L1": 0.1621195882108154,
+      "ar.S.L6": 0.5491243520680618,
+      "sigma2": 0.22816081228151713
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-08",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -78.45452901442644,
+    "parametros": {
+      "ma.L1": -0.8701806550797945,
+      "ma.S.L6": -0.6531442716266103,
+      "sigma2": 0.21859088565863927
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-15",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -89.6663353685662,
+    "parametros": {
+      "intercept": 3.857766420234948,
+      "ar.L1": 0.17390805899611475,
+      "ar.S.L6": 0.5366509730635716,
+      "sigma2": 0.23387188477964665
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-15",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -83.79496885934527,
+    "parametros": {
+      "ma.L1": -0.8787561701282597,
+      "ma.S.L6": -0.6371747376959718,
+      "sigma2": 0.22388236678105555
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-22",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -92.39064059005409,
+    "parametros": {
+      "intercept": 3.943192110051427,
+      "ar.L1": 0.16546059506144803,
+      "ar.S.L6": 0.5322193485459384,
+      "sigma2": 0.22900346552065418
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-22",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -86.06660007718519,
+    "parametros": {
+      "ma.L1": -0.8749234694603671,
+      "ma.S.L6": -0.6603685612267255,
+      "sigma2": 0.2172965923301179
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-29",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -96.97866061778348,
+    "parametros": {
+      "intercept": 3.9882786159364247,
+      "ar.L1": 0.1590706701158222,
+      "ar.S.L6": 0.5294411879485049,
+      "sigma2": 0.23076222352082615
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-05-29",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -90.33116887455752,
+    "parametros": {
+      "ma.L1": -0.8704408953588407,
+      "ma.S.L6": -0.6441828365725335,
+      "sigma2": 0.21886562165903353
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-05",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -99.21239089771211,
+    "parametros": {
+      "intercept": 4.08431835196261,
+      "ar.L1": 0.1537468510519175,
+      "ar.S.L6": 0.5206249842241096,
+      "sigma2": 0.22703174144992133
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-05",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -92.97158345216246,
+    "parametros": {
+      "ma.L1": -0.8495039087068887,
+      "ma.S.L6": -0.6507787906521114,
+      "sigma2": 0.21702965063492471
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-12",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -102.9666614026053,
+    "parametros": {
+      "intercept": 4.063491080920509,
+      "ar.L1": 0.1703978960049494,
+      "ar.S.L6": 0.5142086026008348,
+      "sigma2": 0.2260708128883057
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-12",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -96.89777131359023,
+    "parametros": {
+      "ma.L1": -0.8674914016432439,
+      "ma.S.L6": -0.6750052110157164,
+      "sigma2": 0.21614519848936792
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-19",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -104.66582621551643,
+    "parametros": {
+      "intercept": 4.050855747601892,
+      "ar.L1": 0.16941710271328445,
+      "ar.S.L6": 0.5169111154338234,
+      "sigma2": 0.21945728909772758
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-19",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -98.84547527955664,
+    "parametros": {
+      "ma.L1": -0.8726919858695971,
+      "ma.S.L6": -0.6745796944333495,
+      "sigma2": 0.21045288785989905
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-26",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -110.62817669264888,
+    "parametros": {
+      "intercept": 4.070623343925805,
+      "ar.L1": 0.18067531226127026,
+      "ar.S.L6": 0.5064022898079337,
+      "sigma2": 0.22500537153041492
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-06-26",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -105.46932263542541,
+    "parametros": {
+      "ma.L1": -0.8552795885077167,
+      "ma.S.L6": -0.6892602089557722,
+      "sigma2": 0.21807126425178697
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-03",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -114.87211813517467,
+    "parametros": {
+      "intercept": 3.931859117140739,
+      "ar.L1": 0.18043009911485283,
+      "ar.S.L6": 0.5230873832802188,
+      "sigma2": 0.22536977080708082
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-03",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -109.05849033824748,
+    "parametros": {
+      "ma.L1": -0.8695231117603288,
+      "ma.S.L6": -0.6614331200888892,
+      "sigma2": 0.21748405531348264
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-10",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -119.52286930439192,
+    "parametros": {
+      "intercept": 3.9428422221754666,
+      "ar.L1": 0.16088817644717002,
+      "ar.S.L6": 0.5334001321034769,
+      "sigma2": 0.22681633069130094
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-10",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -114.01818151304983,
+    "parametros": {
+      "ma.L1": -0.8972898932842881,
+      "ma.S.L6": -0.6299726157519167,
+      "sigma2": 0.22024095902461127
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-17",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -122.36373875351637,
+    "parametros": {
+      "intercept": 4.1242644852341135,
+      "ar.L1": 0.15569033176535016,
+      "ar.S.L6": 0.5145736671241777,
+      "sigma2": 0.224000735394879
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-17",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -117.0771418699436,
+    "parametros": {
+      "ma.L1": -0.8958207206303345,
+      "ma.S.L6": -0.6631702937724796,
+      "sigma2": 0.21734547363280415
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-24",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -124.65618947197065,
+    "parametros": {
+      "intercept": 4.084852261697381,
+      "ar.L1": 0.16385830314695068,
+      "ar.S.L6": 0.5153446108668455,
+      "sigma2": 0.21988372469293205
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-24",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -120.54284917617453,
+    "parametros": {
+      "ma.L1": -0.8799743013515235,
+      "ma.S.L6": -0.6666172796926823,
+      "sigma2": 0.21643569073778987
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-31",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -127.75408627574828,
+    "parametros": {
+      "intercept": 4.138406802954835,
+      "ar.L1": 0.1560817070720382,
+      "ar.S.L6": 0.513631764569611,
+      "sigma2": 0.2179947681035063
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-07-31",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -124.36023913810763,
+    "parametros": {
+      "ma.L1": -0.887723830302366,
+      "ma.S.L6": -0.6624494970405376,
+      "sigma2": 0.2161376272250642
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-07",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -133.45961329995865,
+    "parametros": {
+      "intercept": 4.161078693083455,
+      "ar.L1": 0.15423949561509437,
+      "ar.S.L6": 0.5114949374457674,
+      "sigma2": 0.22174398846196208
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-07",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -128.60654180999978,
+    "parametros": {
+      "ma.L1": -0.8959627031665244,
+      "ma.S.L6": -0.6882548272269845,
+      "sigma2": 0.216254054638685
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-14",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -136.76853818448865,
+    "parametros": {
+      "intercept": 3.97674339287883,
+      "ar.L1": 0.149183215944479,
+      "ar.S.L6": 0.5359430146710664,
+      "sigma2": 0.22006372730112816
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-14",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -132.03819919639966,
+    "parametros": {
+      "ma.L1": -0.8997823409807533,
+      "ma.S.L6": -0.6748446200006909,
+      "sigma2": 0.21536793758887177
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-21",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -139.5196316363847,
+    "parametros": {
+      "intercept": 3.9957625148487006,
+      "ar.L1": 0.1488691792649833,
+      "ar.S.L6": 0.5341402333383682,
+      "sigma2": 0.2176092772284141
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-21",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -134.86315114752648,
+    "parametros": {
+      "ma.L1": -0.9035561722295739,
+      "ma.S.L6": -0.6784567253266899,
+      "sigma2": 0.21296328531376632
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-28",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -142.45341243313,
+    "parametros": {
+      "intercept": 4.036407765501205,
+      "ar.L1": 0.14293121409832713,
+      "ar.S.L6": 0.53259401551663,
+      "sigma2": 0.21561978135312732
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-08-28",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -138.2724585574531,
+    "parametros": {
+      "ma.L1": -0.9059774366108092,
+      "ma.S.L6": -0.6895692795460417,
+      "sigma2": 0.2117873201565562
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-04",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -145.09838979123526,
+    "parametros": {
+      "intercept": 4.07896501220157,
+      "ar.L1": 0.1337446252844257,
+      "ar.S.L6": 0.5326283360176762,
+      "sigma2": 0.21442257641611825
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-04",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -139.843412663798,
+    "parametros": {
+      "ma.L1": -0.9075114723952576,
+      "ma.S.L6": -0.6850218351861052,
+      "sigma2": 0.20862400683957305
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-11",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -149.26746173751567,
+    "parametros": {
+      "intercept": 4.306513032981586,
+      "ar.L1": 0.12374052276031294,
+      "ar.S.L6": 0.5129047471320811,
+      "sigma2": 0.21510845737446424
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-11",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -145.83861632778212,
+    "parametros": {
+      "ma.L1": -0.9095670315305405,
+      "ma.S.L6": -0.7042616410957766,
+      "sigma2": 0.21241747466961355
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-18",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -155.36517920279292,
+    "parametros": {
+      "intercept": 4.39460732189635,
+      "ar.L1": 0.11174180392646739,
+      "ar.S.L6": 0.509968855744016,
+      "sigma2": 0.21920515007739422
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-18",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -150.6773532103446,
+    "parametros": {
+      "ma.L1": -0.912663373134277,
+      "ma.S.L6": -0.6874464043200743,
+      "sigma2": 0.2144763674452599
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-25",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -160.6669564857164,
+    "parametros": {
+      "intercept": 4.206942925561151,
+      "ar.L1": 0.12924669477569842,
+      "ar.S.L6": 0.5228722712348242,
+      "sigma2": 0.22154533459547776
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-09-25",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -155.37390598979147,
+    "parametros": {
+      "ma.L1": -0.9065045329659284,
+      "ma.S.L6": -0.6559864204988747,
+      "sigma2": 0.21654425368262117
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-02",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -164.55344134126295,
+    "parametros": {
+      "intercept": 4.314628127647521,
+      "ar.L1": 0.1223473377185307,
+      "ar.S.L6": 0.5140848537443248,
+      "sigma2": 0.22143749680689864
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-02",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -159.56515197233693,
+    "parametros": {
+      "ma.L1": -0.9105020176013838,
+      "ma.S.L6": -0.6820995153461034,
+      "sigma2": 0.21657790068561106
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-09",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -170.1582038655234,
+    "parametros": {
+      "intercept": 4.156456874076762,
+      "ar.L1": 0.12298836478187947,
+      "ar.S.L6": 0.5326481272738791,
+      "sigma2": 0.2240722262321309
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-09",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -163.74817595515464,
+    "parametros": {
+      "ma.L1": -0.9199654910232656,
+      "ma.S.L6": -0.6526738427327522,
+      "sigma2": 0.21729778079031836
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-16",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -171.9207604471021,
+    "parametros": {
+      "intercept": 4.219179228222598,
+      "ar.L1": 0.12196152045302651,
+      "ar.S.L6": 0.5261162033465935,
+      "sigma2": 0.22029804915637635
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-16",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -166.40121711136027,
+    "parametros": {
+      "ma.L1": -0.9144930040350374,
+      "ma.S.L6": -0.6688231906571209,
+      "sigma2": 0.2149632766716022
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-23",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -176.51967970373946,
+    "parametros": {
+      "intercept": 4.119283144461442,
+      "ar.L1": 0.1254568304464167,
+      "ar.S.L6": 0.536080421442179,
+      "sigma2": 0.22121151518947704
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-23",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -168.45216528096643,
+    "parametros": {
+      "ma.L1": -0.9169890538897744,
+      "ma.S.L6": -0.6653476373050999,
+      "sigma2": 0.21189547102228456
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-30",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -178.7617791196255,
+    "parametros": {
+      "intercept": 4.152496547781582,
+      "ar.L1": 0.12423708077279272,
+      "ar.S.L6": 0.5334351937306845,
+      "sigma2": 0.2184183854791784
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-10-30",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -170.8429095332429,
+    "parametros": {
+      "ma.L1": -0.9161134892022837,
+      "ma.S.L6": -0.6793293831019789,
+      "sigma2": 0.209369559008836
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-06",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -181.84951686434783,
+    "parametros": {
+      "intercept": 4.029618252920514,
+      "ar.L1": 0.13527019737517254,
+      "ar.S.L6": 0.5422414844749948,
+      "sigma2": 0.2170100872933836
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-06",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -173.53045059441075,
+    "parametros": {
+      "ma.L1": -0.9172255388725431,
+      "ma.S.L6": -0.6753451891961143,
+      "sigma2": 0.2076458562986526
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-13",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -185.5989441507314,
+    "parametros": {
+      "intercept": 3.850058509799082,
+      "ar.L1": 0.153891881144059,
+      "ar.S.L6": 0.5539421691666527,
+      "sigma2": 0.21665079726429912
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-13",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -175.1332542787061,
+    "parametros": {
+      "ma.L1": -0.9131834758183252,
+      "ma.S.L6": -0.676497905903108,
+      "sigma2": 0.20439970021874818
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-20",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -188.4775557953915,
+    "parametros": {
+      "intercept": 3.6983851216560852,
+      "ar.L1": 0.15650377436441795,
+      "ar.S.L6": 0.5709464587842775,
+      "sigma2": 0.21496266469946596
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-20",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -176.83127505423298,
+    "parametros": {
+      "ma.L1": -0.9142342513854153,
+      "ma.S.L6": -0.6707891618862755,
+      "sigma2": 0.20149284796262115
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-27",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -191.02746701471085,
+    "parametros": {
+      "intercept": 3.680039442920478,
+      "ar.L1": 0.15554838756384864,
+      "ar.S.L6": 0.5737104205232468,
+      "sigma2": 0.21296654089902647
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-11-27",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -179.8022326833071,
+    "parametros": {
+      "ma.L1": -0.9126834250253391,
+      "ma.S.L6": -0.6808440225236989,
+      "sigma2": 0.20036417869155368
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-12-04",
+    "modelo": "S1",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -193.13337677516807,
+    "parametros": {
+      "intercept": 3.6072050817112564,
+      "ar.L1": 0.15507215281877204,
+      "ar.S.L6": 0.5829607296274362,
+      "sigma2": 0.21041510874733355
+    },
+    "avisos": []
+  },
+  {
+    "origen": "2011-12-04",
+    "modelo": "S2",
+    "metodo": "lbfgs",
+    "maxiter": 500,
+    "convergio": true,
+    "loglike": -180.8643572011925,
+    "parametros": {
+      "ma.L1": -0.9109957389993736,
+      "ma.S.L6": -0.681479823026685,
+      "sigma2": 0.19681538333058105
+    },
+    "avisos": []
+  }
+]

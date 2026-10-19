@@ -1,0 +1,70 @@
+fecha,dia,clasificacion
+2010-12-04,Sábado,Sábado: cierre semanal
+2010-12-11,Sábado,Sábado: cierre semanal
+2010-12-18,Sábado,Sábado: cierre semanal
+2010-12-24,Viernes,Pausa de Navidad/Año Nuevo (inferencia por ausencia)
+2010-12-25,Sábado,Navidad (también sábado)
+2010-12-26,Domingo,Boxing Day
+2010-12-27,Lunes,"Navidad, feriado sustituto"
+2010-12-28,Martes,"Boxing Day, feriado sustituto"
+2010-12-29,Miércoles,Pausa de Navidad/Año Nuevo (inferencia por ausencia)
+2010-12-30,Jueves,Pausa de Navidad/Año Nuevo (inferencia por ausencia)
+2010-12-31,Viernes,Pausa de Navidad/Año Nuevo (inferencia por ausencia)
+2011-01-01,Sábado,Año Nuevo (también sábado)
+2011-01-02,Domingo,Pausa de Navidad/Año Nuevo (inferencia por ausencia)
+2011-01-03,Lunes,"Año Nuevo, feriado sustituto"
+2011-01-08,Sábado,Sábado: cierre semanal
+2011-01-15,Sábado,Sábado: cierre semanal
+2011-01-22,Sábado,Sábado: cierre semanal
+2011-01-29,Sábado,Sábado: cierre semanal
+2011-02-05,Sábado,Sábado: cierre semanal
+2011-02-12,Sábado,Sábado: cierre semanal
+2011-02-19,Sábado,Sábado: cierre semanal
+2011-02-26,Sábado,Sábado: cierre semanal
+2011-03-05,Sábado,Sábado: cierre semanal
+2011-03-12,Sábado,Sábado: cierre semanal
+2011-03-19,Sábado,Sábado: cierre semanal
+2011-03-26,Sábado,Sábado: cierre semanal
+2011-04-02,Sábado,Sábado: cierre semanal
+2011-04-09,Sábado,Sábado: cierre semanal
+2011-04-16,Sábado,Sábado: cierre semanal
+2011-04-22,Viernes,Viernes Santo
+2011-04-23,Sábado,Sábado: cierre semanal
+2011-04-24,Domingo,Domingo de Pascua: cierre compatible con Semana Santa
+2011-04-25,Lunes,Lunes de Pascua
+2011-04-29,Viernes,Boda real: feriado extraordinario
+2011-04-30,Sábado,Sábado: cierre semanal
+2011-05-02,Lunes,Early May Bank Holiday
+2011-05-07,Sábado,Sábado: cierre semanal
+2011-05-14,Sábado,Sábado: cierre semanal
+2011-05-21,Sábado,Sábado: cierre semanal
+2011-05-28,Sábado,Sábado: cierre semanal
+2011-05-30,Lunes,Spring Bank Holiday
+2011-06-04,Sábado,Sábado: cierre semanal
+2011-06-11,Sábado,Sábado: cierre semanal
+2011-06-18,Sábado,Sábado: cierre semanal
+2011-06-25,Sábado,Sábado: cierre semanal
+2011-07-02,Sábado,Sábado: cierre semanal
+2011-07-09,Sábado,Sábado: cierre semanal
+2011-07-16,Sábado,Sábado: cierre semanal
+2011-07-23,Sábado,Sábado: cierre semanal
+2011-07-30,Sábado,Sábado: cierre semanal
+2011-08-06,Sábado,Sábado: cierre semanal
+2011-08-13,Sábado,Sábado: cierre semanal
+2011-08-20,Sábado,Sábado: cierre semanal
+2011-08-27,Sábado,Sábado: cierre semanal
+2011-08-29,Lunes,Summer Bank Holiday
+2011-09-03,Sábado,Sábado: cierre semanal
+2011-09-10,Sábado,Sábado: cierre semanal
+2011-09-17,Sábado,Sábado: cierre semanal
+2011-09-24,Sábado,Sábado: cierre semanal
+2011-10-01,Sábado,Sábado: cierre semanal
+2011-10-08,Sábado,Sábado: cierre semanal
+2011-10-15,Sábado,Sábado: cierre semanal
+2011-10-22,Sábado,Sábado: cierre semanal
+2011-10-29,Sábado,Sábado: cierre semanal
+2011-11-05,Sábado,Sábado: cierre semanal
+2011-11-12,Sábado,Sábado: cierre semanal
+2011-11-19,Sábado,Sábado: cierre semanal
+2011-11-26,Sábado,Sábado: cierre semanal
+2011-12-03,Sábado,Sábado: cierre semanal
