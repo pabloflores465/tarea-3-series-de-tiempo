@@ -1,4 +1,4 @@
-# Series de tiempo y clientes — Online Retail
+# Tarea 3: Series de tiempo
 
 Soluciones de las Partes 0–6 de la tarea de Análisis y Ciencia de Datos, explicadas en español y con decisiones de limpieza justificadas.
 
