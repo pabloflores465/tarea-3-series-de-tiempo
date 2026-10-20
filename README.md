@@ -46,7 +46,6 @@ Para repetir también las versiones de dependencias indirectas, usa Python 3.12 
 | `codigo/verificar.py` | Controles de cálculos, limpieza, fechas y convergencia |
 | `resultados/` | CSV, figuras, cifras y registro de convergencia |
 | `datos/` | Excel original y atribución/licencia del dataset |
-| `enunciado/BI_Tarea4.pdf` | Documento proporcionado para esta tarea |
 
 Se simulan **5,000 réplicas por escenario** con semillas `202600` a `202605`. La CV aleatoria usa semillas `2026` a `2035`; el desempate RFM usa `2026`. Los errores semanales se calculan juntando todos los días, y cada ajuste SARIMA exige convergencia. El modelo **TRAMPA** usa información futura deliberadamente para el inciso 5.4 y no se evalúa en prueba.
 
